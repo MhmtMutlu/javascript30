@@ -5,7 +5,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 # 📌 Progress
 
 - [x] 01 - JavaScript Drum Kit
-- [ ] 02 - JS and CSS Clock
+- [x] 02 - JS and CSS Clock
 - [ ] 03 - CSS Variables
 - [ ] 04 - Array Cardio Day 1
 - [ ] 05 - Flex Panel Gallery
