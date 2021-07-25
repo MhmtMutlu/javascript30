@@ -1,8 +1,8 @@
-# JavaScript30 Projects
+# 💻 JavaScript30 Projects
 
 I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">JavaScript30 tutorials.</a>
 
-# Progress
+# 📌 Progress
 
 - [x] 01 - JavaScript Drum Kit
 - [ ] 02 - JS and CSS Clock
