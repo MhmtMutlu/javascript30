@@ -11,7 +11,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 05 - Flex Panel Gallery
 - [x] 06 - Type Ahead
 - [x] 07 - Array Cardio Day 2
-- [ ] 08 - Fun with HTML5 Canvas
+- [x] 08 - Fun with HTML5 Canvas
 - [ ] 09 - Dev Tools Domination
 - [ ] 10 - Hold Shift and Check Checkboxes
 - [ ] 11 - Custom Video Player
