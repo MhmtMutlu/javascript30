@@ -18,7 +18,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 12 - Key Sequence Detection
 - [x] 13 - Slide in on Scroll
 - [x] 14 - JavaScript References VS Copying
-- [ ] 15 - LocalStorage
+- [x] 15 - LocalStorage
 - [ ] 16 - Mouse Move Shadow
 - [ ] 17 - Sort Without Articles
 - [ ] 18 - Adding Up Times with Reduce
