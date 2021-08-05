@@ -22,7 +22,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 16 - Mouse Move Shadow
 - [x] 17 - Sort Without Articles
 - [x] 18 - Adding Up Times with Reduce
-- [ ] 19 - Webcam Fun
+- [x] 19 - Webcam Fun
 - [ ] 20 - Speech Detection
 - [ ] 21 - Geolocation
 - [ ] 22 - Follow Along Link Highlighter
