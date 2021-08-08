@@ -23,7 +23,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 17 - Sort Without Articles
 - [x] 18 - Adding Up Times with Reduce
 - [x] 19 - Webcam Fun
-- [ ] 20 - Speech Detection
+- [x] 20 - Speech Detectionx
 - [ ] 21 - Geolocation
 - [ ] 22 - Follow Along Link Highlighter
 - [ ] 23 - Speech Synthesis
