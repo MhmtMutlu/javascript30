@@ -25,7 +25,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 19 - Webcam Fun
 - [x] 20 - Speech Detectionx
 - [x] 21 - Geolocation
-- [ ] 22 - Follow Along Link Highlighter
+- [x] 22 - Follow Along Link Highlighter
 - [ ] 23 - Speech Synthesis
 - [ ] 24 - Sticky Nav
 - [ ] 25 - Event Capture, Propagation, Bubbling and Once
