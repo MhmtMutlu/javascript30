@@ -27,7 +27,7 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 21 - Geolocation
 - [x] 22 - Follow Along Link Highlighter
 - [x] 23 - Speech Synthesis
-- [ ] 24 - Sticky Nav
+- [x] 24 - Sticky Nav
 - [ ] 25 - Event Capture, Propagation, Bubbling and Once
 - [ ] 26 - Stripe Follow Along Nav
 - [ ] 27 - Click and Drag
