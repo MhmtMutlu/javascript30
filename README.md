@@ -31,6 +31,6 @@ I am following Wes Bos' <a href="https://javascript30.com/" target="_blank">Java
 - [x] 25 - Event Capture, Propagation, Bubbling and Once
 - [x] 26 - Stripe Follow Along Nav
 - [x] 27 - Click and Drag
-- [ ] 28 - Video Speed Controller
+- [x] 28 - Video Speed Controller
 - [ ] 29 - Countdown Timer
 - [ ] 30 - Whack A Mole
